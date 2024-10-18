@@ -2,6 +2,8 @@
 
 Welcome to the **Deep Convolutional Q-Learning for Pac-Man** project! This project implements a Deep Reinforcement Learning model using Convolutional Neural Networks (CNNs) to train an AI agent capable of playing the classic Atari game, Pac-Man, using **Deep Q-Learning** (DQN). This solution leverages OpenAI's Gym and Gymnasium environments.
 
+[![Watch the video]()](https://github.com/arman-pani/pacman/blob/main/pacman_video.mp4)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Getting Started](#getting-started)
